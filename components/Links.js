@@ -1,11 +1,18 @@
 import React from 'react'
+import {BsLinkedin} from 'react-icons/bs'
+import {BsGithub} from 'react-icons/bs'
+import {SiGmail} from 'react-icons/si'
+import styles from '@/styles/Links.module.css'
 
 const Links = () => {
   return (
-    <div>
-      <div>in</div>
-      <div>git</div>
-      <div>mail</div>
+    <div className={styles.container}>
+      <div className={styles.box}>
+      <BsLinkedin/>
+      <BsGithub/>
+      <SiGmail/>
+
+      </div>
     </div>
   )
 }

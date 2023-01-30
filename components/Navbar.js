@@ -1,5 +1,6 @@
 import React from 'react'
 import {BsLightningCharge} from 'react-icons/bs'
+import styles from '@/styles/Navbar.module.css'
 
 const Navbar = () => {
   return (

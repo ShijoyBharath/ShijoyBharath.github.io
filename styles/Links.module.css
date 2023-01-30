@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    width: screen;
+    justify-content: flex-end;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}

@@ -1,8 +1,12 @@
 import React from 'react'
+import {TfiAngleDoubleDown} from 'react-icons/tfi'
+import styles from '@/styles/Scrolldown.module.css'
 
 const Scrolldown = () => {
   return (
-    <div>V</div>
+    <div className={styles.container}>
+      <TfiAngleDoubleDown/>
+    </div>
   )
 }
 
