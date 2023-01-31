@@ -9,7 +9,7 @@ const Hero = () => {
       <Navbar/>
       <div>
         <h3>Hey, I'm</h3>
-        <h1>Shijoy Bharath.</h1>
+        <h1>Shijoy<br/>Bharath.</h1>
         <h3>I am a software engineering student at Rajiv Gandhi Institute of Technology, Kottayam.</h3>
       </div>
       <Links/>
