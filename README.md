@@ -2,4 +2,4 @@ This used to be a [Next.js](https://nextjs.org/) portfolio site bootstrapped wit
 
 ## Hi! Looks like you stumbled on some of my old stuff..
 
-Visit my new [portfolio page](https://shijoybharath.github.io)
+Visit my new [portfolio page](https://shijoybharath.vercel.app/)
